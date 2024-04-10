@@ -8,7 +8,7 @@ React.js: The front-end framework used to build the user interface.
 HTML/CSS: For structuring and styling the app.
 JavaScript: To add interactivity and functionality.
 
-##Features
+## Features
 Search Movies: Users can search for movies by title.
 Add to Watch List: Easily add movies to your watch list.
 Remove from Watch List: Remove movies you’ve already watched or no longer want to watch.
